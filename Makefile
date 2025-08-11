@@ -46,7 +46,7 @@ REMOVE_EXTENSIONS = 1
 CODESIGN_IPA = 0
 
 UYOU_PATH = Tweaks/uYou
-UYOU_DEB = $(UYOU_PATH)/com.miro.uyou_$(UYOU_VERSION)_iphoneos-arm.deb
+UYOU_DEB = https://miro92.com/repo/debs/com.miro.uyou_3.0.1_iphoneos-arm.deb  
 UYOU_DYLIB = $(UYOU_PATH)/Library/MobileSubstrate/DynamicLibraries/uYou.dylib
 UYOU_BUNDLE = $(UYOU_PATH)/Library/Application\ Support/uYouBundle.bundle
 
